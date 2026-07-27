@@ -1,1 +1,1 @@
-## Encode Architecture
+## Encoder Architecture
