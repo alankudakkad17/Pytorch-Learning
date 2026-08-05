@@ -32,7 +32,3 @@ Notes
 - The assignment cells that accept your implementation are marked as editable/graded in the notebook. Avoid changing those locations unless you are submitting your solution.
 - The helper tokenizer preserves contractions and handles language-specific characters (accents, umlauts, Cyrillic) where appropriate.
 
-License / Attribution
-- Educational material adapted for transformer-based translation exercises.
-
-If you'd like, I can also add a quick start example or expand the requirements to a requirements.txt file.
